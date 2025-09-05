@@ -19,7 +19,7 @@ It displays a simple omelette recipe with an image, preparation time, ingredient
 
 ### Screenshots
 
-(Omelet.jpg)
+(Simple Omelette Recipe/Screenshot.png)
 
 ### Live Demo
 
