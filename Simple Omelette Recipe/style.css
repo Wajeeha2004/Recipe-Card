@@ -100,9 +100,10 @@ td:last-child {
 }
 
 
-@media (max-width: 600px) {
+@media (max-width: 680px) {
  .card{
     padding:20px;
     margin:25px;
  }
+
 }
