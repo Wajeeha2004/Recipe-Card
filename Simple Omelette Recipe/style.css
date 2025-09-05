@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&family=Outfit:wght@400;600;700&display=swap');
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #F3E5D8;
+    font-family: 'Outfit' ;
+}
+.card {
+    margin-block: 96px;
+    max-width: 624px;
+    background: #FFFFFF;
+    border-radius: 24px;
+    padding: 32px;
+}
+img {
+    margin-bottom: 24px;
+    width: 100%;   
+    border-radius:10px ;
+}
+h1 {
+    font-family: 'Young Serif';
+    font-size: 32px;
+    font-weight: 400;
+    color: #302D2C;
+    margin-bottom: 24px;
+    line-height: 30px;
+}
+p {
+    font-size: 16px;
+    font-weight: 400;
+    color: #5F574E;
+    margin-bottom: 24px;
+}
+.card__prep {
+    background-color: #FFF5FA;
+    border-radius: 16px;
+    padding: 24px;
+    margin-bottom: 24px;
+}
+h3 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #7B284F;
+    margin-bottom: 8px;
+}
+li {
+    font-size: 14px;
+    margin-bottom: 8px;
+    color: #5F574E;
+    font-weight: 400;
+    margin-left: 25px;
+    padding-left: 10px; 
+}
+li::marker {
+    color: #7B284F; 
+    font-weight: 600;
+}
+h2 {
+    font-family: 'Young Serif';
+    font-size: 28px;
+    line-height: 30px;
+    color:#854632;
+    margin-bottom: 24px;
+    font-weight: 400;
+}
+ul,ol{    
+    margin-bottom: 24px;
+}
+hr{
+    margin-bottom: 24px;
+    border: 1px solid #E4DED8;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+tr {
+  border-bottom: 1px solid #E4DED8;
+}
+tr:last-child {
+  border-bottom: none;
+}
+td {
+  padding: 12px 28px;
+  font-size: 14px;
+}
+td:first-child {
+  font-weight: 400;
+  color: #5F574E;
+}
+td:last-child {
+  font-weight: 600;
+  color: #7B284F;
+}
+
+
+@media (max-width: 600px) {
+ .card{
+    padding:20px;
+    margin:25px;
+ }
+}
