@@ -23,9 +23,7 @@ It displays a simple omelette recipe with an image, preparation time, ingredient
 
 ### Live Demo
 
-You can view the live page here:  
-
-
+You can view the live page here:  https://simple-recipe-card.vercel.app/
 
 
 ### How to Use
