@@ -17,9 +17,9 @@ It displays a simple omelette recipe with an image, preparation time, ingredient
 - Nutrition table with styled borders
 - Works on both desktop and mobile screens
 
-### Screenshots
+### Screenshot
 
-![Screenshot](Screenshot.png)
+![Screenshot]( Simple Omelette Recipe/Screenshot.png)
 
 
 
